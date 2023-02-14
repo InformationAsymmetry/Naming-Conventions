@@ -6,6 +6,11 @@
     ],
     "clues": "bread and water"
   },
+  {
+    "recent": [
+      "heuristic-projection"
+    ]
+  },
   { 
     "recent": [
       "Self-Similarity Quantization of Humans",
@@ -34,5 +39,10 @@
   {
     "recent": "Personal Self-Similarity Quantization of Humans",
     "clues": ["Cuboy"]
+  },
+  {
+    "recent": "Quantization Aesthetics of Lifestyle",
+    "clues": ["J-yah"]
+  }
 ]
 ```
