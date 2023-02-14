@@ -30,6 +30,9 @@
   {
     "recent": "つ",
     "clues": ["Wang"]  
-  }
+  },
+  {
+    "recent": "Personal Self-Similarity Quantization of Humans",
+    "clues": ["Cuboy"]
 ]
 ```
