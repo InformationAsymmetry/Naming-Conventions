@@ -1,5 +1,11 @@
 ```
 [
+  {
+    "recent": [
+      "memoized"
+    ],
+    "clues": "bread and water"
+  },
   { 
     "recent": [
       "Self-Similarity Quantization of Humans",
