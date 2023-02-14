@@ -2,7 +2,7 @@
 [
   { 
     "recent": [
-      "Groupings of Human Self-Similarity",
+      "Self-Similarity Quantization of Humans",
     ],
     "maybe": [
       "生"
