@@ -1,5 +1,10 @@
 ```
-[
+[ {
+    "recent": [
+      "Classic Group Hueristic Antagonism"
+    ],
+    "clues": "That style of dance means danger!"
+  },
   {
     "recent": [
       "memoized"
