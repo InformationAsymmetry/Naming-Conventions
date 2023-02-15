@@ -1,9 +1,9 @@
 ```
 [ {
     "recent": [
-      "Classic Group Hueristic Antagonism"
+      "Codified Hueristic Bias"
     ],
-    "clues": "That style of dance means danger!"
+    "clues": "That style of dance...!"
   },
   {
     "recent": [
