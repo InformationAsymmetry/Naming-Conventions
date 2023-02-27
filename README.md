@@ -16,6 +16,10 @@
       "heuristic-projection"
     ]
   },
+  {
+    "recent": "Person Self-Similarity Quantization of Humans",
+    "clues": ["Cuboy"]
+  },
   { 
     "recent": [
       "Self-Similarity Quantization of Humans",
@@ -40,10 +44,6 @@
   {
     "recent": "つ",
     "clues": ["Wang"]  
-  },
-  {
-    "recent": "Personal Self-Similarity Quantization of Humans",
-    "clues": ["Cuboy"]
   },
   {
     "recent": "Quantization Aesthetics of Lifestyle",
