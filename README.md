@@ -1,7 +1,7 @@
 ```
 [ {
     "recent": [
-      "Codified Hueristic Bias"
+      "Codified Expression Bias"
     ],
     "clues": "That style of dance...!"
   },
@@ -13,12 +13,12 @@
   },
   {
     "recent": [
-      "heuristic-projection"
+      "expression-projection"
     ]
   },
   {
     "recent": "Person Self-Similarity Quantization of Humans",
-    "clues": ["Cuboy"]
+    "clues": ["Theophilus"]
   },
   { 
     "recent": [
@@ -37,17 +37,21 @@
   },
   {
     "recent": [
-      "Keyword Salience / Magnitude (KSM)",
+      "Keyword Salience / Magnitude",
     ],
     "clues": ["Physical Computing"]
   },
   {
     "recent": "つ",
-    "clues": ["Wang"]  
+    "clues": ["Dance it off"]  
   },
   {
     "recent": "Quantization Aesthetics of Lifestyle",
     "clues": ["J-yah"]
-  }
+  },
+  {
+    "recent": "social infusions with high delta individual",
+    "clues": "kitchen sink"
+    }
 ]
 ```
